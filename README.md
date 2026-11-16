@@ -39,8 +39,7 @@ Install and configure networks, Wi-Fi, CCTV, NVRs, and access control systems. P
 Higher Technical Education  
 Applied Informatics in Economics · 2005–2010
 
-## Currently Learning<img width="962" height="1280" alt="photo_2026-11-15_22-52-52" src="https://github.com/user-attachments/assets/161e03c9-8132-4816-aaa4-fa69d3477a32" />
-
+## Currently Learning
 
 - Cybersecurity fundamentals
 - Linux and Bash scripting
