@@ -39,7 +39,8 @@ Install and configure networks, Wi-Fi, CCTV, NVRs, and access control systems. P
 Higher Technical Education  
 Applied Informatics in Economics · 2005–2010
 
-## Currently Learning
+## Currently Learning<img width="962" height="1280" alt="photo_2026-11-15_22-52-52" src="https://github.com/user-attachments/assets/161e03c9-8132-4816-aaa4-fa69d3477a32" />
+
 
 - Cybersecurity fundamentals
 - Linux and Bash scripting
@@ -71,6 +72,6 @@ Here are some ideas to get you started:
 
 Network rack installation, structured cabling, and network configuration.
 
-
+<img width="1320" height="1757" alt="IMG_1157" src="https://github.com/user-attachments/assets/18eece7a-666f-4da4-804f-27beb63cf18a" />
 
 Network rack installation, structured cabling, and network configuration.
