@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 Network rack installation, structured cabling, and network configuration.
 
-<img width="660" height="662" alt="20261116_053838032_iOS" src="https://github.com/user-attachments/assets/074aa8e5-f3e0-4e6b-a5a8-74d1e80db58e" />
+<img width="400" height="400" alt="20261116_053838032_iOS" src="https://github.com/user-attachments/assets/074aa8e5-f3e0-4e6b-a5a8-74d1e80db58e" />
 
 During my time as a System Administrator in Northern Cyprus (2015–2020).
 
