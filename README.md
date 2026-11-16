@@ -65,3 +65,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Work
+
+<img width="1320" height="1717" alt="IMG_1357" src="https://github.com/user-attachments/assets/6cdddec5-0ac0-4d3b-89b0-03e72bf2f81b" />
+
+Network rack installation, structured cabling, and network configuration.
+
+
+
+Network rack installation, structured cabling, and network configuration.
