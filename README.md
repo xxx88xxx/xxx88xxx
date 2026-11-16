@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 -->
 ## My Work
 
-<img width="1320" height="1717" alt="IMG_1357" src="https://github.com/user-attachments/assets/6cdddec5-0ac0-4d3b-89b0-03e72bf2f81b" />
+<img width="400" height="1717" alt="IMG_1357" src="https://github.com/user-attachments/assets/6cdddec5-0ac0-4d3b-89b0-03e72bf2f81b" />
 
 Network rack installation, structured cabling, and network configuration.
 
-<img width="1320" height="1757" alt="IMG_1157" src="https://github.com/user-attachments/assets/18eece7a-666f-4da4-804f-27beb63cf18a" />
+<img width="400" height="1757" alt="IMG_1157" src="https://github.com/user-attachments/assets/18eece7a-666f-4da4-804f-27beb63cf18a" />
 
 Network rack installation, structured cabling, and network configuration.
