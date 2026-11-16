@@ -13,6 +13,14 @@ I’m currently studying cybersecurity and ethical hacking, focusing on Linux, B
 - Network rack installation and equipment setup
 - Computer and network technical support
 
+Cybersecurity & Programming (Currently Learning)
+
+* Penetration Testing & Ethical Hacking Fundamentals
+* Kali Linux & Linux Command Line
+* Bash Scripting
+* JavaScript & SQL
+* Networking Fundamentals (TCP/IP, DNS, DHCP)
+
 ## Professional Experience
 
 ### IT & Low Voltage Technician | Cyber IT-Tech
