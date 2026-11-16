@@ -2,8 +2,9 @@
 
 IT & Low Voltage Technician with experience in networking, system administration, telecommunications, and technical support.
 
-Currently studying cybersecurity and practicing Linux, Bash, SQL, and JavaScript.
 
+🔐
+I’m currently studying cybersecurity and ethical hacking, focusing on Linux, Bash scripting, networking, and penetration testing fundamentals.
 ## Technical Skills
 
 - Network installation, configuration, and troubleshooting
